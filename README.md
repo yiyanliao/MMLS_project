@@ -2,7 +2,7 @@
 
 This repo contains codes for Mathematical Modeling of Life Sciences project "Decoding the dynamical principle of single cell aging for regulatory interventions".
 
-![TOC](https://github.com/yiyanliao/MMLS_project/blob/main/img/MMLS_TOC.pdf)
+![TOC](https://github.com/yiyanliao/MMLS_project/blob/main/MMLS_TOC.pdf)
 
 This dictionary is organized as follows:
 
