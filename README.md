@@ -1,4 +1,4 @@
-# README
+# Decoding the dynamical principle of single cell aging for regulatory interventions
 
 This repo contains codes for Mathematical Modeling of Life Sciences project "Decoding the dynamical principle of single cell aging for regulatory interventions".
 
