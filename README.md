@@ -1,6 +1,8 @@
 # README
 
-This zip file contains reproductions of codes and results for 2020 and 2023 papers.
+This repo contains codes for Mathematical Modeling of Life Sciences project "Decoding the dynamical principle of single cell aging for regulatory interventions".
+
+![TOC](https://github.com/yiyanliao/MMLS_project/blob/main/img/MMLS_TOC.pdf)
 
 This dictionary is organized as follows:
 
@@ -48,10 +50,3 @@ This dictionary is organized as follows:
     └── ODE
         └── ode.mlx
 ```
-
-- 2020
-  - Phase Plane: Deterministic modeling of Sir2-Hap4 systems.
-  - Potential Landscape: Quasi-potential landscape computation reproduction.
-- 2023
-  - ODE: ODE modeling of synthetic oscillator.
-  - DDE & Toogle Switch: DDE modeling of synthetic oscillator and modeling of toogle switch.
