@@ -1,0 +1,18 @@
+40	#	k1=dFIP[0];
+1       #	k2=dFIP[1];
+0.004   #	k3=dFIP[2];
+0.02    #	k4=dFIP[3];
+0.04    #	k5=dFIP[4];
+0.004   #	k6=dFIP[5];
+280     #	KM1=dFIP[6];
+4250    #	KM2=dFIP[7];
+2200    #	KM3=dFIP[8];
+90	#	KM4=dFIP[9];
+0.35    #	alpha=dFIP[10];
+0.95    #	beta=dFIP[11];
+225     #	St=dFIP[12];
+1000.    #	D=dFIP[13];
+0.01    #	dt=dFIP[14];
+2000000    #	steps=dFIP[15];
+20000      #	interval=dFIP[16];
+
